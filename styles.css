@@ -301,6 +301,20 @@ img.link:hover{
 
 }
 
+img.link2:hover{
+    display: flexbox;
+    transform: scale(2);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+
+}
+
+img.link3:hover{
+    display: flexbox;
+    transform: scale(1.05);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+
+}
+
 /* resposnsive design sur mobile */
 @media only screen and (max-width: 767px) {
     img.cover-profile {
