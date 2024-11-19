@@ -1,2 +1,2 @@
 # Sandk21.github.io
-Portfolio data analuyst
+Portfolio data analyst
