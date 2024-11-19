@@ -253,6 +253,11 @@ img.portfolio {
     display: None;
 }
 
+
+ul.ul-projet {
+    height: 10px;
+}
+
 /* resposnsive design sur mobile */
 @media only screen and (max-width: 767px) {
     img.cover-profile {
